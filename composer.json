@@ -1,0 +1,23 @@
+{
+    "name": "silversoft-nl/laravel-cache",
+    "description": "Helper for laravel cache",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Silversoft",
+            "email": "contact@silversoft.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "classmap": [
+            "src/Silversoft/Helper"
+        ],
+        "psr-0": {
+            "Silversoft\\Helper\\": "src/"
+        }
+    }
+}

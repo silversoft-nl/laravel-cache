@@ -1,5 +1,5 @@
 {
-    "name": "silversoft-nl/laravel-cache",
+    "name": "silversoft-nl/laravel-cacher",
     "description": "Helper for laravel cache",
     "license": "MIT",
     "authors": [
